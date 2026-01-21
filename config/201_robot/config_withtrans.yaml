@@ -78,9 +78,18 @@ lidar:
       pcap_repeat: true            #  true: The pcap bag will repeat play   
       pcap_rate: 1.0               #  Rate to read the pcap file
       pcap_path: /home/robosense/lidar.pcap #The path of pcap file
-      x: 1.234
+      # # Robot 1
+      # x: 1.234
+      # y: 0.157
+      # z: 0.112
+      # roll: 0.0
+      # pitch: 1.5707963267949
+      # yaw: 0.0
+      # Robot 4
+      # x: 1.234
+      x: 1.30 # hacks: move obstacle a little forward
       y: 0.157
-      z: 0.112
+      z: 0.05
       roll: 0.0
       pitch: 1.5707963267949
       yaw: 0.0
