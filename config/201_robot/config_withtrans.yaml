@@ -88,12 +88,12 @@ lidar:
       # yaw: 0.0
 
       # Robot 3
-      # x: 1.234
-      x: 1.30 # hacks: move obstacle a little forward
-      y: 0.157
-      z: 0.05
+      # x: -0.3
+      x: -0.40 # hacks: move obstacle a little forward
+      y: 0.0
+      z: 0.112
       roll: 0.0
-      pitch: 0.0
+      pitch: -1.5707963267949
       yaw: 0.0
 
       # # Robot 4
